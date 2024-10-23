@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.exe
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.deps.json
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.runtimeconfig.json
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.dll
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\bin\Debug\net8.0\RegisterEmployees.pdb
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.AssemblyInfo.cs
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.dll
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\refint\RegisterEmployees.dll
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.pdb
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\RegisterEmployees.genruntimeconfig.cache
+C:\Users\vinic\source\repos\RegisterEmployees\RegisterEmployees\obj\Debug\net8.0\ref\RegisterEmployees.dll
